@@ -1,5 +1,6 @@
 {
   "name": "grpc-web-ci",
+  "version": "0.0.0",
   "scripts": {
     "install": "(cd ts && npm install) && (cd test && npm install)",
     "test:integration": "cd test && npm test",
